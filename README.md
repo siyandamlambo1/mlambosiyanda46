@@ -1,26 +1,37 @@
 # Hi, I'm Siyanda 👋
 
-I'm a BSc Mathematics & Statistics student at North-West University.
+I'm a first-year BSc Mathematics & Statistics student at North-West University.
 
-## Currently Learning
+I'm passionate about programming, mathematics, and statistics, and I enjoy building Python projects that solve real-world problems.
+
+## 🚀 Currently Learning
 
 - Python
 - Statistics
 - Data Analysis
-- Problem Solving
+- Git & GitHub
 
-## Goals
+## 🎯 Career Goals
 
 - Become a Data Scientist
-- Build real-world Python projects
-- Learn SQL
-- Learn Machine Learning
+- Master Machine Learning
+- Build impactful software and data projects
+- Contribute to open-source projects
 
-## Projects
+## 📂 Featured Projects
 
-- Statistical Calculator
-- More projects coming soon...
+### 📊 Statistical Calculator
+A menu-driven Python application capable of:
+- Five-number summary
+- Mean
+- Variance
+- Standard deviation
+- Range & IQR
+- Search and delete operations
+- Saving data to a text file
 
-## Contact
+More projects coming soon...
 
-Feel free to connect with me as I continue learning and building.
+## 📫 Connect with Me
+
+I'm always learning and improving. Feel free to explore my repositories and follow my journey.
